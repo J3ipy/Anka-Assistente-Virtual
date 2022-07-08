@@ -1,5 +1,13 @@
-# Anka-Assistente-Virtual
+# Basic Virtual Assistant
 
-Esse é um projeto de uma assistente virtual básica desenvolvida toda em python, usando alguns módulos do próprio python, o projeto é open source, se quiserem podem copiar o código e fizer alguns incrementos!
+> Status: Finished ✔️
 
-Se divirtam! :)
+Have you ever thought about chatting with your own computer?
+Well, I present you a virtual assistant entirely made in python and only using native python and VS Code libraries!
+
+<table>
+  <tr>Python<tr>
+  <tr>VS Code<tr>
+</table>
+
+
